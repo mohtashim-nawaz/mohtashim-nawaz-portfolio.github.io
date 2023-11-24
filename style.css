@@ -1,0 +1,78 @@
+body{
+    background-image: url(website.jpg);
+}
+.topBar{
+    /*This CSS is for styling the Topbar*/
+    background-color: rgb(122, 148, 152);
+    height: 45px;
+    border-radius: 20px;
+    vertical-align: middle;
+    margin-bottom: 50px;
+}
+#name{
+    color: rgb(65, 11, 11);
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#linkedinTop{
+    margin-left: 980px;
+    margin-right: 5px;
+}
+#linkedinTopImage{
+    background-color: white;
+    height: 20px;
+    width: 80px;
+    border-radius: 5px;
+}
+#githubTopImage{
+    background-color: white;
+    height: 20px;
+    width: 80px;
+    border-radius: 5px;
+}
+.mainImage{
+    margin-left: 600px;
+}
+#mainImageImg{
+    border-radius: 50%;
+}
+.profiles{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+#softEngProfile{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: azure;
+}
+#writerProfile{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color:azure;
+    margin-left: 100px;
+}
+.education{
+    font-family: fantasy;
+    font-size: 50px;
+    color: chocolate;
+    text-align: center;
+}
+#educationList{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
+#contact{
+    font-family: fantasy;
+    font-size: 30px;
+    color: rgb(168, 221, 161);
+    text-align: center;
+}
+.contactList{
+    text-align: center;
+    font-family: cursive;
+}
